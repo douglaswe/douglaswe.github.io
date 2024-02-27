@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const dataAlvo = new Date("2023-08-09T23:00:00");
+  const dataAlvo = new Date("2024-03-02T23:22:00");
   const containerContagemRegressiva = document.getElementById(
     "container-contagem-regressiva"
   );
